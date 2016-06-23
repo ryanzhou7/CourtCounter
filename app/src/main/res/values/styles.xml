@@ -8,4 +8,26 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="RaisedButton" parent="AppTheme">
+        <item name="colorControlHighlight">@color/colorPrimaryDark</item>
+        <item name="colorButtonNormal">@color/colorAccent</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="score1" parent="RaisedButton">
+        <item name="android:text">@string/points_1</item>
+    </style>
+
+    <style name="score2" parent="RaisedButton">
+        <item name="android:text">@string/points_2</item>
+    </style>
+
+    <style name="score3" parent="RaisedButton">
+        <item name="android:text">@string/points_3</item>
+    </style>
+
+    <style name="reset" parent="RaisedButton">
+        <item name="android:text">@string/points_reset</item>
+    </style>
+
 </resources>
