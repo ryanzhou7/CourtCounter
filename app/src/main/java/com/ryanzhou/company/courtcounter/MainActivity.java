@@ -9,8 +9,7 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
     public final String LOG_TAG = this.getClass().getSimpleName();
-    public final int ERROR_CHAR_FROM_INCREMENT_BUTTON_TEXT = 0;
-    public final int RESET_SCORE_INT = 0;
+    public final int ERROR_CODE_PARSE_FROM_INCREMENT_BUTTON_TEXT = 0;
     public final String ERROR_PARSE_INT_MESSAGE = "Button text does not contain int score";
     protected TextView textViewTeam1Score;
     protected TextView textViewTeam2Score;
@@ -28,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     public void incrementTeam1(View view){
         char parseResult = parseScoreNumberFrom( ((Button)view).getText().toString() );
         int incrementPoints = Character.getNumericValue(parseResult);
-        if( parseResult != ERROR_CHAR_FROM_INCREMENT_BUTTON_TEXT) {
+        if( parseResult != ERROR_CODE_PARSE_FROM_INCREMENT_BUTTON_TEXT) {
             int currentScore = Integer.valueOf( textViewTeam1Score.getText().toString() );
             textViewTeam1Score.setText( String.valueOf(currentScore + incrementPoints) );
         }
@@ -40,7 +39,7 @@ public class MainActivity extends AppCompatActivity {
     public void incrementTeam2(View view){
         char parseResult = parseScoreNumberFrom( ((Button)view).getText().toString() );
         int incrementPoints = Character.getNumericValue(parseResult);
-        if( parseResult != ERROR_CHAR_FROM_INCREMENT_BUTTON_TEXT){
+        if( parseResult != ERROR_CODE_PARSE_FROM_INCREMENT_BUTTON_TEXT){
             int currentScore = Integer.valueOf( textViewTeam2Score.getText().toString() );
             textViewTeam2Score.setText( String.valueOf(currentScore + incrementPoints) );
         }
@@ -55,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
                     return (c);
             }
         }
-        return 0;
+        return ERROR_CODE_PARSE_FROM_INCREMENT_BUTTON_TEXT;
     }
 
     public void resetTeamScores(View v){
