@@ -1,21 +1,20 @@
-# CourtCounter
+# CourtCounter for Basketball scores
+<img src="https://raw.githubusercontent.com/ryanzhou7/CourtCounter/master/media/demo1.gif" width=400>
 
-##Description
+Track basketball 
 
-<img src="https://raw.githubusercontent.com/ryanzhou7/CourtCounter/master/media/demo1.gif" width=200>
+As a part of the [Android Basics Udacity course by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
+<img src="https://raw.githubusercontent.com/ryanzhou7/CourtCounter/master/media/android_udacity_logo.png" width=100>
 
-##[Court Counter](https://github.com/ryanzhou7/CourtCounter)
-##[Quiz](https://github.com/ryanzhou7/QuizApp)
-This Project
-
-####[Musical Structure Miwok](https://github.com/ryanzhou7/Miwok)
-Next Project
-
-[Report Card](https://github.com/ryanzhou7/ReportCard)
-[Tour Guide](https://github.com/ryanzhou7/TourGuide)
-[Book Listing](https://github.com/ryanzhou7/BookListing)
-[News](https://github.com/ryanzhou7/NewsApp)
-[Habit Tracker](https://github.com/ryanzhou7/HabitTrackerDB)
-[Inventory](https://github.com/ryanzhou7/InventoryApp)
+See all projects below.
+### [->#1 Court Counter](https://github.com/ryanzhou7/CourtCounter): Track scores in basketball, made with material design theme widgets.
+[#2 Quiz](https://github.com/ryanzhou7/QuizApp): Take a quiz on this
+####[#3 Musical Structure Miwok](https://github.com/ryanzhou7/Miwok): 
+[#4 Report Card](https://github.com/ryanzhou7/ReportCard)
+[#5 Tour Guide](https://github.com/ryanzhou7/TourGuide)
+[#6 Book Listing](https://github.com/ryanzhou7/BookListing)
+[#7 News](https://github.com/ryanzhou7/NewsApp)
+[#8 Habit Tracker](https://github.com/ryanzhou7/HabitTrackerDB)
+[#9 Inventory](https://github.com/ryanzhou7/InventoryApp)
 
 
