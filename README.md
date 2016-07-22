@@ -2,7 +2,7 @@
 
 ##Description
 
-<img src="https://raw.githubusercontent.com/ryanzhou7/CourtCounter/master/media/demo.gif" width=300>
+<img src="https://raw.githubusercontent.com/ryanzhou7/CourtCounter/master/media/demo1.gif" width=300>
 
 ##[Court Counter](https://github.com/ryanzhou7/CourtCounter)
 ##[Quiz](https://github.com/ryanzhou7/QuizApp)
