@@ -1,7 +1,11 @@
 # CourtCounter
 
 ## Basket ball score keeper
-## Quiz
+
+
+
+<img src="https://raw.githubusercontent.com/ryanzhou7/MovieViewer/master/app/media/.gif" width=300>
+
 [Q](https://github.com/ryanzhou7/QuizApp)
 ## Musical Structure Miwok
 [M](https://github.com/ryanzhou7/Miwok)
@@ -13,7 +17,7 @@
 [BL](https://github.com/ryanzhou7/BookListing)
 ## News
 [News](https://github.com/ryanzhou7/NewsApp)
-## Habit Tracker
+ Habit Tracker
 [HT](https://github.com/ryanzhou7/HabitTrackerDB)
-## Inventory
-[I](https://github.com/ryanzhou7/InventoryApp)
+###### [Inventory](https://github.com/ryanzhou7/InventoryApp)
+
