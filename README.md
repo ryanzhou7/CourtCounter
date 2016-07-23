@@ -3,15 +3,15 @@
 
 Track basketball do this etc.
 
-As a part of the [Android Basics Udacity course by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 <img src="https://raw.githubusercontent.com/ryanzhou7/CourtCounter/master/media/android_udacity_logo.png" width=100>
+
+As a part of the [Android Basics Udacity course by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
 See all projects below.
 
-1. ###[-> Court Counter](https://github.com/ryanzhou7/CourtCounter)
-..-Track scores in basketball, made with material design theme widgets.
+[#1 Court Counter](https://github.com/ryanzhou7/CourtCounter): Track points in basketball, made with material design buttons.
 
-[Quiz](https://github.com/ryanzhou7/QuizApp) Test your skills on the history of Android by answering quesions through check boxes, one radio buttons, and text entries.
+[#2 Quiz](https://github.com/ryanzhou7/QuizApp) Test your skills on the history of Android by answering quesions through check boxes, one radio buttons, and text entries.
 
 [#3 Musical Structure Miwok](https://github.com/ryanzhou7/Miwok):  do this
 
