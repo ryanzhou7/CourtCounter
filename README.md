@@ -1,7 +1,7 @@
 # CourtCounter for Basketball scores
 <img src="https://raw.githubusercontent.com/ryanzhou7/CourtCounter/master/media/demo1.gif" width=240>
 
-Track basketball do this etc.
+Track basketball scores of two teams with this simple app!
 
 As a part of the [Android Basics Udacity course by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
