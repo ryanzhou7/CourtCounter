@@ -5,7 +5,9 @@ Track basketball do this etc.
 
 As a part of the [Android Basics Udacity course by Google](https://www.udacity.com/course/android-basics-nanodegree-by-google--nd803)
 
-See all projects below. <img src="https://raw.githubusercontent.com/ryanzhou7/CourtCounter/master/media/android_udacity_logo.png" width=100>
+<img src="https://raw.githubusercontent.com/ryanzhou7/CourtCounter/master/media/android_udacity_logo.png" width=100>
+
+See all projects below. 
 
 ###[#1 Court Counter](https://github.com/ryanzhou7/CourtCounter): Track points in basketball, made with material design buttons.
 
